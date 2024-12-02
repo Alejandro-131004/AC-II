@@ -4,6 +4,8 @@
 -treinar depois o modelo com mais epochs
 -treinar o modelo com a mesma config com data augmentation
 -comparacao estatistica
+-Remover mfccs do cnn 1d
+-adicionar um cnn 2d com base em melspectograms
 
 # Alejandro
 
