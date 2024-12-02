@@ -6,7 +6,7 @@
 -comparacao estatistica
 -Remover mfccs do cnn 1d
 -adicionar um cnn 2d com base em melspectograms
-
+- instalar linux na torre para correr this shit fasterrrrr
 # Alejandro
 
 -Tratar de meter o notebook das features direito aka passar a cena de data augmentation para la (pontos de apresentacao)
